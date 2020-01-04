@@ -1,0 +1,20 @@
+CREATE release\libCourseLib.a
+ADDMOD release\buildingbase.o
+ADDMOD release\headquarters.o
+ADDMOD release\outpost.o
+ADDMOD release\farm.o
+ADDMOD release\grassland.o
+ADDMOD release\simplemapitem.o
+ADDMOD release\simplegamescene.o
+ADDMOD release\forest.o
+ADDMOD release\tilebase.o
+ADDMOD release\basicworker.o
+ADDMOD release\workerbase.o
+ADDMOD release\placeablegameobject.o
+ADDMOD release\worldgenerator.o
+ADDMOD release\coordinate.o
+ADDMOD release\playerbase.o
+ADDMOD release\gameobject.o
+ADDMOD release\basicresources.o
+ADDMOD release\moc_simplegamescene.o
+SAVE

@@ -1,0 +1,4 @@
+[submodule "Course"]
+	path = Course
+    url = ../courselibrary.git
+

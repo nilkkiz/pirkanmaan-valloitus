@@ -1,0 +1,20 @@
+CREATE debug\libCourseLib.a
+ADDMOD debug\buildingbase.o
+ADDMOD debug\headquarters.o
+ADDMOD debug\outpost.o
+ADDMOD debug\farm.o
+ADDMOD debug\grassland.o
+ADDMOD debug\simplemapitem.o
+ADDMOD debug\simplegamescene.o
+ADDMOD debug\forest.o
+ADDMOD debug\tilebase.o
+ADDMOD debug\basicworker.o
+ADDMOD debug\workerbase.o
+ADDMOD debug\placeablegameobject.o
+ADDMOD debug\worldgenerator.o
+ADDMOD debug\coordinate.o
+ADDMOD debug\playerbase.o
+ADDMOD debug\gameobject.o
+ADDMOD debug\basicresources.o
+ADDMOD debug\moc_simplegamescene.o
+SAVE
